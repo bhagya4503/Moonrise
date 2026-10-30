@@ -1,24 +1,36 @@
 // Change everything here. No need to touch App.jsx for content updates.
 export const BRAND = {
   name: "Moonrise",
-  phone: "+91 90000 00000",       // shown on the page
-  whatsapp: "919000000000",       // country code + number, no + or spaces
-  email: "hello@moonrise.in",
+  phone: "+91 8983741788",       // shown on the page
+  whatsapp: "918983741788",       // country code + number, no + or spaces
+  email: "bhagyashreedivte5@gmail.com",
 };
 
 export const SERVICES = [
-  { icon: "🌐", title: "Website development", short: "Fast, mobile-friendly sites that turn visitors into enquiries.",
-    points: ["Landing pages and business websites", "Contact buttons for WhatsApp and email", "Hosting and domain setup"] },
-  { icon: "📍", title: "Google Business Profile", short: "Get found on Google Maps and local search.",
-    points: ["Profile creation and verification help", "Photos, posts and updates", "Review replies and monthly care"] },
-  { icon: "💬", title: "WhatsApp Business setup", short: "Look professional and reply faster on WhatsApp.",
-    points: ["Business profile and product catalog", "Quick replies and greeting messages", "Click-to-chat links for your website and ads"] },
-  { icon: "📱", title: "Social media management", short: "Regular posts that keep your brand visible.",
-    points: ["Content calendar", "Post designs and captions", "Instagram and LinkedIn handling"] },
-  { icon: "🤖", title: "AI chatbots and agents", short: "Answer customers and capture leads, day and night.",
-    points: ["WhatsApp and website chatbots", "Automatic lead follow-up", "AI-written captions, posts and review replies"] },
-  { icon: "🛟", title: "Support plans", short: "We stay with you after launch.",
-    points: ["1, 3, 6 or 12 month plans", "Fixes, updates and reports", "Domain and hosting renewals handled"] },
+  {
+    icon: "🌐", title: "Website development", short: "Fast, mobile-friendly sites that turn visitors into enquiries.",
+    points: ["Landing pages and business websites", "Contact buttons for WhatsApp and email", "Hosting and domain setup"]
+  },
+  {
+    icon: "📍", title: "Google Business Profile", short: "Get found on Google Maps and local search.",
+    points: ["Profile creation and verification help", "Photos, posts and updates", "Review replies and monthly care"]
+  },
+  {
+    icon: "💬", title: "WhatsApp Business setup", short: "Look professional and reply faster on WhatsApp.",
+    points: ["Business profile and product catalog", "Quick replies and greeting messages", "Click-to-chat links for your website and ads"]
+  },
+  {
+    icon: "📱", title: "Social media management", short: "Regular posts that keep your brand visible.",
+    points: ["Content calendar", "Post designs and captions", "Instagram and LinkedIn handling"]
+  },
+  {
+    icon: "🤖", title: "AI chatbots and agents", short: "Answer customers and capture leads, day and night.",
+    points: ["WhatsApp and website chatbots", "Automatic lead follow-up", "AI-written captions, posts and review replies"]
+  },
+  {
+    icon: "🛟", title: "Support plans", short: "We stay with you after launch.",
+    points: ["1, 3, 6 or 12 month plans", "Fixes, updates and reports", "Domain and hosting renewals handled"]
+  },
 ];
 
 export const STEPS = [
